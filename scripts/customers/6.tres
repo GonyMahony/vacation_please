@@ -12,4 +12,5 @@ condition = "Giant Lightbulb in the trunk"
 price = 1105
 max_payout = 1100
 insured = true
+text = "I tell the truth"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

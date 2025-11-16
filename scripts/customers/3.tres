@@ -11,4 +11,5 @@ portrait = ExtResource("1_g7npb")
 condition = "nasal cancer"
 price = 3500
 max_payout = 15000
+text = "I tell the truth"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

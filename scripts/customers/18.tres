@@ -11,4 +11,5 @@ portrait = ExtResource("1_yhy58")
 condition = "caring for her mentally disabled brother"
 price = 30345
 insured = true
+text = "I tell the truth"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

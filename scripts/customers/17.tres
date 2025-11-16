@@ -10,4 +10,5 @@ species = "snake"
 portrait = ExtResource("1_7xmxd")
 condition = "Breast Implants"
 price = 3595
+text = "I tell the truth"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

@@ -1,7 +1,6 @@
 extends Control
 
-@onready var ai_text = $PanelContainer/VBoxContainer/RichTextLabel
-@onready var ai_chat = $NobodyWhoChat
+@onready var text_label = $PanelContainer/VBoxContainer/RichTextLabel
 @onready var overview = $PanelContainer/VBoxContainer/Overview
 var customer = 0
 
@@ -12,28 +11,22 @@ var customer = 0
 @export var client_is_insured = true
 @export var client_is_lying = false
 @export var client_lie = ""
+@export var client_text = ""
 
 func _ready():
 	await get_tree().process_frame
-	#generate_text()
 
 
 func boss_text(text):
-	ai_text.text = ""
-	ai_chat.stop_generation()
-	ai_chat.reset_context()
-	ai_text.text = ""
+	
+	text_label.text = ""
 	print("Hello")
 	overview.text = "YOUR BOSS:"
-	ai_text.text = str(text)
+	text_label.text = str(text)
 	
 	
 
 func generate_text():
-	
-	#Stop LLM from printing previous message
-	ai_chat.stop_generation()
-	ai_chat.reset_context()
 	
 	#update current customer & variables
 	customer = Global.current_customer
@@ -45,37 +38,17 @@ func generate_text():
 	client_is_lying = Global.client_dict[customer].is_lying
 	client_lie = Global.client_dict[customer].lie
 	client_is_insured = Global.client_dict[customer].insured
+	client_text = Global.client_dict[customer].text
 	
 	print(client_name)
 	print(client_species)
 	
 	overview.text = ""
-	ai_text.text = ""
+	text_label.text = ""
 	overview.text = "Name: " + client_name + "\nSpecies: " + client_species + "\nCondition: " + client_condition + "\nClaim: " + str(client_price)
+	text_label.text = client_text
 	
-	if client_is_lying == false:
-		print("setting truthful prompt")
-		ai_chat.system_prompt = "In this world everyone is an animal. Your name is " + client_name + ". You are talking to a health insurance representative, trying to get a payout. You say you suffered from " + client_condition + " and it cost you " + str(client_price) + " Lovecoins (a fictional currency). Your speech should be in coherent, formal sentences, and around 100 words. Never send anything other than literal, direct speech (for example: never describe your actions in **)."
-	elif client_is_lying == true:
-		print("setting lying prompt")
-		ai_chat.system_prompt = "In this world everyone is an animal. You are talking to a health insurance representative and want to get a payout. Your speak in coherent, formal sentences. Use about 100 words. However, you are lying about your " + client_lie + ". You say your name is " + client_name + ". You request a payout of " + str(client_price) + " Lovecoins (a fictional currency) for " + client_condition + ". If you are lying about your condition give the reader a hint to figure it out (hidden in the text). Never send anything other than literal, direct speech (for example: never describe your actions in **)."
-	else:
-		print("Error: client_is_lying not found/set")
-	
-	ai_chat.stop_generation()
-	ai_chat.reset_context()
-	
-	ai_text.text = ""
-	print(ai_chat.system_prompt)
-	ai_chat.say("start talking")
 
 func delete_text():
-	ai_chat.stop_generation()
 	overview.text = ""
-	ai_text.text = ""
-	
-
-
-func _on_nobody_who_chat_response_updated(new_token: String) -> void:
-	ai_text.text += new_token
-	
+	text_label.text = ""

@@ -6,6 +6,7 @@ var client_dict = {} #dictionary for clients showing up(same as below but random
 var clean_dict = {} #dictionary for buttons on pc
 var scene
 var first_call = true
+var instance_loaded = false
 
 var currency = 0
 
@@ -44,7 +45,6 @@ func load_and_randomize_clients():
 		"18.tres",
 		"19.tres",
 		"20.tres",
-		# Add all your files here
 	]
 	
 	for file_name in file_names:
@@ -62,12 +62,6 @@ func load_and_randomize_clients():
 	
 	print("Loaded ", client_dict.size(), " clients")
 
-#func start_customer(customer):
-	#print(client_dict[customer].name)
-	##play animation and sound
-	##Load UI with relevant information
-	##Load corresponding LLM Text
-	#pass
 
 func get_all_customers_ordered() -> Array:
 	return clean_dict.values()

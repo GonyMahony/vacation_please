@@ -13,4 +13,5 @@ price = 8600
 max_payout = 10000
 is_lying = true
 lie = "Insured"
+text = "I am a liar"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
