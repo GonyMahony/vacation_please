@@ -10,3 +10,4 @@ class_name CustomerResource
 @export var insured: bool
 @export var is_lying: bool
 @export var lie: String
+@export var text: String

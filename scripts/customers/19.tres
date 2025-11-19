@@ -12,4 +12,5 @@ condition = "bent beak"
 price = 2000
 max_payout = 3700
 insured = true
+text = "I tell the truth"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

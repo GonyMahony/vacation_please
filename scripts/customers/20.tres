@@ -12,4 +12,5 @@ condition = "Blind"
 price = 4500
 max_payout = 5000
 insured = true
+text = "I tell the truth"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

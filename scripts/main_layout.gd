@@ -7,7 +7,6 @@ var current_customer
 var instance
 var boss_portrait = load("res://Assets/animalsprites/boss.png")
 var is_boss= false
-var instance_loaded = false
 
 
 @export var COMMISSION_PERCENTAGE = 0.15
@@ -21,16 +20,20 @@ var boss_text = " "
 # Called when the node enters the scene tree for the first time.
 
 func _ready() -> void:
-	if instance_loaded == false:
+	if Global.instance_loaded == true:
+		instance = load("res://scenes/AI Message.tscn").instantiate()
+		add_child(instance)
+		new_customer()
+		await get_tree().create_timer(1.0).timeout
+	else:
 		instance = load("res://scenes/AI Message.tscn").instantiate()
 		add_child(instance)
 		instance.boss_text("Hello ... Papa Seal, I hope I said that correctly. So when a client comes in you give them no more money than our maximum payout. You can see that in the conditions table. If you catch a liar they will not get any money. Have fun.")
-		instance_loaded = true
-	$AnimalSprite.texture = boss_portrait
-	$AnimationPlayer.play("customer_new")
-	
-	await get_tree().create_timer(1.0).timeout
-	is_boss = true
+		Global.instance_loaded = true
+		$AnimalSprite.texture = boss_portrait
+		$AnimationPlayer.play("customer_new")
+		await get_tree().create_timer(1.0).timeout
+		is_boss = true
 
 func new_customer():
 	Global.next_customer()
@@ -62,9 +65,9 @@ func _input(event: InputEvent) -> void:
 	
 	#get rid of boss and load new customer
 	if is_boss && event.is_pressed():
+		is_boss = false
 		$AnimationPlayer.play("customer_leave")
 		await get_tree().create_timer(1.0).timeout
-		is_boss = false
 		new_customer()
 
 #-------------------------------------------------------------------------------
