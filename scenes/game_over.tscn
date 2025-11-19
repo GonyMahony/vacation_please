@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://dw5gh7l5imp0e"]
 
 [ext_resource type="Script" uid="uid://733a3tder373" path="res://scripts/game_over.gd" id="1_wqhvx"]
-[ext_resource type="Texture2D" uid="uid://k4gsu52fl0qc" path="res://Assets/layout/last_scene.jpg" id="2_tbwuq"]
+[ext_resource type="Texture2D" uid="uid://bcd8vmxxeufpk" path="res://Assets/layout/last_scene.jpg" id="2_tbwuq"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_wqhvx"]
 font_color = Color(0, 0, 0, 1)
