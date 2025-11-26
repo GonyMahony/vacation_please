@@ -6,7 +6,7 @@
 [resource]
 script = ExtResource("2_gfhu3")
 name = "Princess Moo"
-species = "Cat"
+species = "cat"
 portrait = ExtResource("1_av4s0")
 condition = "Blind"
 price = 4500
