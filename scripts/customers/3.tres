@@ -9,6 +9,6 @@ name = "Orphelia Himmelstein"
 species = "dog"
 portrait = ExtResource("1_g7npb")
 condition = "nasal cancer"
-price = 3500
+price = 10000
 max_payout = 15000
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
