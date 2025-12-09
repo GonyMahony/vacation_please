@@ -1,16 +1,16 @@
-[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://8t3g6rd12q0f"]
+[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://bhbrnrw244ne2"]
 
 [ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="1_8kc4u"]
-[ext_resource type="Texture2D" uid="uid://d0if75ltxpsbj" path="res://Assets/animalsprites/elephant.png" id="1_d5bt0"]
+[ext_resource type="Texture2D" uid="uid://fcqyijlo2pfr" path="res://assets/animalsprites/ladybug.png" id="1_d5bt0"]
 
 [resource]
 script = ExtResource("1_8kc4u")
-name = "Benjamin Flowerboy"
-species = "elephant"
+name = "Lady the Bug"
+species = "ladibug"
 portrait = ExtResource("1_d5bt0")
-condition = "Schizophrenic Paranoia & Dissociative Identity Disorder"
-price = 10500
-max_payout = 50
+condition = "Too many dots"
+price = 7777
+max_payout = 8
 insured = true
-text = "I tell the truth"
+text = "Hello, good sir.Look... there’s a problem. I have eight spots on my shell. You know what that means, right? I’m supposed to have seven! But this eighth one… it’s not a spot. It’s a malignant intruder. A terrifying mole! I need specialist surgery to remove it immediately.I must return to seven spots, or everything falls apart. Do you understand? I need my payout approved, before the world ends!"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
