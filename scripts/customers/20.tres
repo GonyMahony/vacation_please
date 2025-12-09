@@ -5,11 +5,12 @@
 
 [resource]
 script = ExtResource("2_gfhu3")
-name = "Princess"
-species = "Moo"
+name = "Princess Moo"
+species = "cat"
 portrait = ExtResource("1_av4s0")
 condition = "Blind"
 price = 4500
 max_payout = 5000
 insured = true
+text = "Hi, glad I made it here! See just got blind because of my cataract and I just got a bill from the hospital? It is because they failed my laser surgery, plus I am insured and this should be covered by the insurance! I hope this is just a dumb misunderstanding because I will not pay someone for making me blind. If anything, I will sue this damn hospital if the follow up surgery does not help. "
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

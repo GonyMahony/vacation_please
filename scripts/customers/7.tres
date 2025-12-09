@@ -12,4 +12,5 @@ condition = "nicked feathers"
 price = 50
 max_payout = 3700
 insured = true
+text = "That orange punk tried to attack me. But I am not yet that old... I can still fly, and I still can BITE when needed. Only in defense of course. "
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

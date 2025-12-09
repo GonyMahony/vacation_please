@@ -12,4 +12,5 @@ condition = "Borelliosis"
 price = 670
 is_lying = true
 lie = "Name"
+text = "I am a liar"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
