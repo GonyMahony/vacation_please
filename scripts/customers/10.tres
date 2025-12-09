@@ -14,5 +14,4 @@ max_payout = 1000
 insured = true
 is_lying = true
 lie = "Condition"
-text = "I am a liar"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

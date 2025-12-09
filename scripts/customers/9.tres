@@ -13,5 +13,4 @@ price = -100
 insured = true
 is_lying = true
 lie = "species"
-text = "I am a liar"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
