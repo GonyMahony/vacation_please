@@ -12,4 +12,5 @@ condition = "getting operated out of a dog"
 price = 545
 max_payout = 1100
 insured = true
+text = "Last thing I remember is darkness consuming me. Next moment I was being pulled out of something, or someone. "
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

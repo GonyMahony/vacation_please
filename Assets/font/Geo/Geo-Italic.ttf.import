@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://d1bm7qk28n6tm"
-path="res://.godot/imported/Geo-Italic.ttf-645124aa9917f0c4484e1243ec17e9f0.fontdata"
+path="res://.godot/imported/Geo-Italic.ttf-f4c95e98688bbe259070a0968c5ee121.fontdata"
 
 [deps]
 
-source_file="res://assets/font/Geo/Geo-Italic.ttf"
-dest_files=["res://.godot/imported/Geo-Italic.ttf-645124aa9917f0c4484e1243ec17e9f0.fontdata"]
+source_file="res://Assets/font/Geo/Geo-Italic.ttf"
+dest_files=["res://.godot/imported/Geo-Italic.ttf-f4c95e98688bbe259070a0968c5ee121.fontdata"]
 
 [params]
 

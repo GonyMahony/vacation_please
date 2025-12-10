@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://chrkgu23rc7c7"
-path="res://.godot/imported/EncodeSans-VariableFont_wdth,wght.ttf-e57d3d8b9a78af38edf0f36eaa3ecb70.fontdata"
+path="res://.godot/imported/EncodeSans-VariableFont_wdth,wght.ttf-f01c622b156a536342287fe99c6c858f.fontdata"
 
 [deps]
 
-source_file="res://assets/font/Encode_Sans/EncodeSans-VariableFont_wdth,wght.ttf"
-dest_files=["res://.godot/imported/EncodeSans-VariableFont_wdth,wght.ttf-e57d3d8b9a78af38edf0f36eaa3ecb70.fontdata"]
+source_file="res://Assets/font/Encode_Sans/EncodeSans-VariableFont_wdth,wght.ttf"
+dest_files=["res://.godot/imported/EncodeSans-VariableFont_wdth,wght.ttf-f01c622b156a536342287fe99c6c858f.fontdata"]
 
 [params]
 

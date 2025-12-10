@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://clt5sbmg1ni3s"
-path="res://.godot/imported/Handjet-VariableFont_ELGR,ELSH,wght.ttf-4f7179ab3de916704ba809c001232da7.fontdata"
+path="res://.godot/imported/Handjet-VariableFont_ELGR,ELSH,wght.ttf-7aab42e33f88c921ff0810de126bb082.fontdata"
 
 [deps]
 
-source_file="res://assets/font/Handjet/Handjet-VariableFont_ELGR,ELSH,wght.ttf"
-dest_files=["res://.godot/imported/Handjet-VariableFont_ELGR,ELSH,wght.ttf-4f7179ab3de916704ba809c001232da7.fontdata"]
+source_file="res://Assets/font/Handjet/Handjet-VariableFont_ELGR,ELSH,wght.ttf"
+dest_files=["res://.godot/imported/Handjet-VariableFont_ELGR,ELSH,wght.ttf-7aab42e33f88c921ff0810de126bb082.fontdata"]
 
 [params]
 

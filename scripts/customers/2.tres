@@ -12,5 +12,5 @@ condition = "cataract"
 price = 6495
 max_payout = 5000
 insured = true
-text = "I tell the truth"
+text = "So, to start, you should know that I am a glasses-tester, and I take my job very seriously. I work with the prestigious glasses-maker Vi Shon and he relies on my skills for his artisanship. Recently, I have been befallen by a vicious cataract impairing my work. I had to pay the doctors 6495 coins to remedy my situation and resume work. As per my contract, I therefore ask for a payout of this sum."
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
