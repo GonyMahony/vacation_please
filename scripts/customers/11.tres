@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://bfet8mv5v85hc"]
 
-[ext_resource type="Texture2D" uid="uid://dyk2ghtfxk8tq" path="res://Assets/animalsprites/cat.png" id="1_2rfeu"]
+[ext_resource type="Texture2D" uid="uid://dyk2ghtfxk8tq" path="res://assets/animalsprites/cat.png" id="1_2rfeu"]
 [ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="1_mod1g"]
 
 [resource]
@@ -14,4 +14,5 @@ max_payout = 5000
 insured = true
 is_lying = true
 lie = "Condition"
+text = "Okay, so, listen. I’ve got Severe Ocular… uh… Oculiartites and I can barely see a thing! I know, I know. I somehow made it all the way to your desk, but that’s because I’ve got ears. And whiskers. And a nose so sharp I could smell your stink from ten blocks away.I may not see you clearly, but trust me. I sense everything.I just… need the money for this eye surgery. Please. My vision is going downhill faster than my dignity."
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://drokco4fl224k"
-path="res://.godot/imported/Geo-Regular.ttf-3e546540ecf12467c21207c58782af54.fontdata"
+path="res://.godot/imported/Geo-Regular.ttf-6f63a60c6da99a125a3dde0694577a2e.fontdata"
 
 [deps]
 
-source_file="res://Assets/font/Geo/Geo-Regular.ttf"
-dest_files=["res://.godot/imported/Geo-Regular.ttf-3e546540ecf12467c21207c58782af54.fontdata"]
+source_file="res://assets/font/Geo/Geo-Regular.ttf"
+dest_files=["res://.godot/imported/Geo-Regular.ttf-6f63a60c6da99a125a3dde0694577a2e.fontdata"]
 
 [params]
 
