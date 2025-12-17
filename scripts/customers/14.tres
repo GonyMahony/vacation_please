@@ -6,7 +6,7 @@
 [resource]
 script = ExtResource("1_8kc4u")
 name = "Lady the Bug"
-species = "ladibug"
+species = "ladybug"
 portrait = ExtResource("1_d5bt0")
 condition = "Too many dots"
 price = 7777
