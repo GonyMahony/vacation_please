@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://dgucoej0ccgaf"
-path="res://.godot/imported/EncodeSans_SemiExpanded-Bold.ttf-b36f2d45dfa2c35728a6b84582feed9a.fontdata"
+path="res://.godot/imported/EncodeSans_SemiExpanded-Bold.ttf-a953105b8642a02f54a902310f67de9f.fontdata"
 
 [deps]
 
-source_file="res://assets/font/Encode_Sans/static/EncodeSans_SemiExpanded-Bold.ttf"
-dest_files=["res://.godot/imported/EncodeSans_SemiExpanded-Bold.ttf-b36f2d45dfa2c35728a6b84582feed9a.fontdata"]
+source_file="res://Assets/font/Encode_Sans/static/EncodeSans_SemiExpanded-Bold.ttf"
+dest_files=["res://.godot/imported/EncodeSans_SemiExpanded-Bold.ttf-a953105b8642a02f54a902310f67de9f.fontdata"]
 
 [params]
 

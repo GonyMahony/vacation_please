@@ -14,4 +14,5 @@ max_payout = 1000
 insured = true
 is_lying = true
 lie = "Condition"
+text = "My tail is not just bitten - it's completely broken! It will take weeks for it to go back to normal, or maybe even months. To think someone can just hurt you without a reason, and then go without consequences is absurd. "
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

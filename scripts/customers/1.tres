@@ -14,5 +14,5 @@ max_payout = 1000
 insured = true
 is_lying = true
 lie = "Price"
-text = "I am a liar"
+text = "Dear representative,Recently, I had a horrible, excruciatingly painful accident in which my 67th left leg - counting from the front - as well as my 312th right one both sustained a serious fracture. I am very reliant on these two legs in particular, and it cost me 1500 coins and 2 weeks of rest to get back on my feet, during which I was entirely immobilized and had to pay someone to take care of my day-to-day live, resulting in this hefty sum. I demand you reimburse me immediately!"
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

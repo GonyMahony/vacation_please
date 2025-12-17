@@ -13,7 +13,7 @@ var is_boss= false
 @export var BONUS_PERCENTAGE = 0.4
 @export var COURT_COST = 2000
 @export var LYER_REWARD = 10
-@export var LIE_COMING_OUT_PERCENTAGE = .5
+@export var LIE_COMING_OUT_PERCENTAGE = .65
 @export var WRONG_CUSTOMER_FINE = 100
 var boss_text = " "
 

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://bahltxinpjhfs"
-path="res://.godot/imported/EncodeSans_SemiCondensed-Medium.ttf-16a1abbd4101f3da8eabe068b7bc7289.fontdata"
+path="res://.godot/imported/EncodeSans_SemiCondensed-Medium.ttf-3e8d107062891d730786067a88605e8f.fontdata"
 
 [deps]
 
-source_file="res://assets/font/Encode_Sans/static/EncodeSans_SemiCondensed-Medium.ttf"
-dest_files=["res://.godot/imported/EncodeSans_SemiCondensed-Medium.ttf-16a1abbd4101f3da8eabe068b7bc7289.fontdata"]
+source_file="res://Assets/font/Encode_Sans/static/EncodeSans_SemiCondensed-Medium.ttf"
+dest_files=["res://.godot/imported/EncodeSans_SemiCondensed-Medium.ttf-3e8d107062891d730786067a88605e8f.fontdata"]
 
 [params]
 

@@ -12,4 +12,5 @@ condition = "Giant Lightbulb in the trunk"
 price = 1105
 max_payout = 1100
 insured = true
+text = "I was trying to change the lightbublb the other day all by myself, but I think I saw a spark at one point and, I don't know, somehow inhaled it instead."
 metadata/_custom_type_script = "uid://gekfvna5qo3b"

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://udilxfegvtjs"
-path="res://.godot/imported/catalogue_stand_in.jpg-da761ff1b078f90b9424ff28cb143c6e.ctex"
+path="res://.godot/imported/catalogue_stand_in.jpg-75b55e76188786f2461be981318cc067.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/catalogue_stand_in.jpg"
-dest_files=["res://.godot/imported/catalogue_stand_in.jpg-da761ff1b078f90b9424ff28cb143c6e.ctex"]
+source_file="res://Assets/catalogue_stand_in.jpg"
+dest_files=["res://.godot/imported/catalogue_stand_in.jpg-75b55e76188786f2461be981318cc067.ctex"]
 
 [params]
 

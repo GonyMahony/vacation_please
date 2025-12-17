@@ -11,4 +11,5 @@ portrait = ExtResource("1_g7npb")
 condition = "nasal cancer"
 price = 10000
 max_payout = 15000
+text = "Hello, am I speaking to my representative Papa Seal? I am so stressed from everything that happened in the past few years. I am a survivor of nasal cancer, but even though my life can now slowly return to a more normal state, I am still in a bad financial situation from the operations. It cost me ten thousand coins in total and I really hope we can finally settle this matter now. I have been filling out forms and paperwork for weeks and the beaurocracy is driving me crazy! "
 metadata/_custom_type_script = "uid://gekfvna5qo3b"
