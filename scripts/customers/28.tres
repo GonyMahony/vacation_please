@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://b3hcejcudwt1a"]
+
+[ext_resource type="Texture2D" uid="uid://dyk2ghtfxk8tq" path="res://Assets/animalsprites/cat.png" id="1_2xwne"]
+[ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="2_6j0gu"]
+
+[resource]
+script = ExtResource("2_6j0gu")
+name = "Princess Moo"
+species = "cat"
+portrait = ExtResource("1_2xwne")
+condition = "Blind"
+price = 4500
+max_payout = 5000
+insured = true
+text = "Hi, glad I made it here! See just got blind because of my cataract and I just got a bill from the hospital? It is because they failed my laser surgery, plus I am insured and this should be covered by the insurance! I hope this is just a dumb misunderstanding because I will not pay someone for making me blind. If anything, I will sue this damn hospital if the follow up surgery does not help. "
+metadata/_custom_type_script = "uid://gekfvna5qo3b"
