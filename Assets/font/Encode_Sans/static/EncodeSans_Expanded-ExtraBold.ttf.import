@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://bgcgbyr3rnakp"
-path="res://.godot/imported/EncodeSans_Expanded-ExtraBold.ttf-989c6cd04610686ee7ebe4e2d60d2260.fontdata"
+path="res://.godot/imported/EncodeSans_Expanded-ExtraBold.ttf-c64a2742e590babcd6b9b0e91b7bf663.fontdata"
 
 [deps]
 
-source_file="res://Assets/font/Encode_Sans/static/EncodeSans_Expanded-ExtraBold.ttf"
-dest_files=["res://.godot/imported/EncodeSans_Expanded-ExtraBold.ttf-989c6cd04610686ee7ebe4e2d60d2260.fontdata"]
+source_file="res://assets/font/Encode_Sans/static/EncodeSans_Expanded-ExtraBold.ttf"
+dest_files=["res://.godot/imported/EncodeSans_Expanded-ExtraBold.ttf-c64a2742e590babcd6b9b0e91b7bf663.fontdata"]
 
 [params]
 

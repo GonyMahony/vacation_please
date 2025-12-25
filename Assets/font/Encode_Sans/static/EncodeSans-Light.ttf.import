@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://dko3h6kcfueco"
-path="res://.godot/imported/EncodeSans-Light.ttf-a3838ccb2636f1872a5b7af01a52c9dc.fontdata"
+path="res://.godot/imported/EncodeSans-Light.ttf-2a8256320eb5bd82e279f8cc077f4e27.fontdata"
 
 [deps]
 
-source_file="res://Assets/font/Encode_Sans/static/EncodeSans-Light.ttf"
-dest_files=["res://.godot/imported/EncodeSans-Light.ttf-a3838ccb2636f1872a5b7af01a52c9dc.fontdata"]
+source_file="res://assets/font/Encode_Sans/static/EncodeSans-Light.ttf"
+dest_files=["res://.godot/imported/EncodeSans-Light.ttf-2a8256320eb5bd82e279f8cc077f4e27.fontdata"]
 
 [params]
 

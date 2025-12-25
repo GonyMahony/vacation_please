@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://ba2o82hmuf0jj"
-path="res://.godot/imported/EncodeSans_Expanded-Thin.ttf-4bbb00f58ac031deb06f1733dd37760f.fontdata"
+path="res://.godot/imported/EncodeSans_Expanded-Thin.ttf-53103b7475e1eea72e44dbc72d04c2a1.fontdata"
 
 [deps]
 
-source_file="res://Assets/font/Encode_Sans/static/EncodeSans_Expanded-Thin.ttf"
-dest_files=["res://.godot/imported/EncodeSans_Expanded-Thin.ttf-4bbb00f58ac031deb06f1733dd37760f.fontdata"]
+source_file="res://assets/font/Encode_Sans/static/EncodeSans_Expanded-Thin.ttf"
+dest_files=["res://.godot/imported/EncodeSans_Expanded-Thin.ttf-53103b7475e1eea72e44dbc72d04c2a1.fontdata"]
 
 [params]
 

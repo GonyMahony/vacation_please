@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dre26otq0evjt"
-path="res://.godot/imported/catalog-cover-standin.jpg-1c279a1f1007653c927f4ba2fb5b5478.ctex"
+path="res://.godot/imported/catalog-cover-standin.jpg-58facb2243958ffb8c708524c103d483.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/catalog-cover-standin.jpg"
-dest_files=["res://.godot/imported/catalog-cover-standin.jpg-1c279a1f1007653c927f4ba2fb5b5478.ctex"]
+source_file="res://assets/catalog-cover-standin.jpg"
+dest_files=["res://.godot/imported/catalog-cover-standin.jpg-58facb2243958ffb8c708524c103d483.ctex"]
 
 [params]
 

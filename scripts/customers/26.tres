@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://bxnrp2xvunl4o"]
+
+[ext_resource type="Texture2D" uid="uid://cqbjk6fvbsfqs" path="res://assets/animalsprites/duck.png" id="1_gujx6"]
+[ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="1_qii1y"]
+
+[resource]
+script = ExtResource("1_qii1y")
+name = "Alfredo "
+species = "Duck"
+portrait = ExtResource("1_gujx6")
+condition = "Bald"
+metadata/_custom_type_script = "uid://gekfvna5qo3b"
