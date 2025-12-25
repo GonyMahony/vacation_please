@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://cn31e46uxi1qu"]
+
+[ext_resource type="Texture2D" uid="uid://bc12nb3k1l0hr" path="res://Assets/animalsprites/bear.png" id="1_idfbt"]
+[ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="2_k0scn"]
+
+[resource]
+script = ExtResource("2_k0scn")
+name = "Bare Grills"
+species = "bear"
+portrait = ExtResource("1_idfbt")
+condition = "Broken Paw"
+price = 1000
+max_payout = 1000
+is_lying = true
+lie = "Insurance"
+text = "Hello representative Seal. A few weeks ago I went on a high-endurance, high-stress, high-stakes, high-difficulty, high-intensity survival tour and sustained a slight injury, nothing too serious. Then I did it again and got injured in the same spot, and this time I had to get treatment, even though my body is so strong! This cost me a thousand coins, and I heard I can get this money back from you?"
+metadata/_custom_type_script = "uid://gekfvna5qo3b"

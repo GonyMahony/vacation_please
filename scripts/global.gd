@@ -45,6 +45,9 @@ func load_and_randomize_clients():
 		"18.tres",
 		"19.tres",
 		"20.tres",
+		"22.tres",
+		"23.tres",
+		"24.tres",
 	]
 	
 	for file_name in file_names:
