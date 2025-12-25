@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cp7ug338m3awk"
-path="res://.godot/imported/EncodeSans_SemiCondensed-Thin.ttf-d1804895699c495de3037836d83b1eca.fontdata"
+path="res://.godot/imported/EncodeSans_SemiCondensed-Thin.ttf-52240889dc3d78f775a2a924c54fa2bf.fontdata"
 
 [deps]
 
-source_file="res://Assets/font/Encode_Sans/static/EncodeSans_SemiCondensed-Thin.ttf"
-dest_files=["res://.godot/imported/EncodeSans_SemiCondensed-Thin.ttf-d1804895699c495de3037836d83b1eca.fontdata"]
+source_file="res://assets/font/Encode_Sans/static/EncodeSans_SemiCondensed-Thin.ttf"
+dest_files=["res://.godot/imported/EncodeSans_SemiCondensed-Thin.ttf-52240889dc3d78f775a2a924c54fa2bf.fontdata"]
 
 [params]
 

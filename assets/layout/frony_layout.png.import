@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by6ojocygd2dp"
-path="res://.godot/imported/frony_layout.png-cee2cbbf6610dec5b83768e1ec8fb624.ctex"
+path="res://.godot/imported/frony_layout.png-b9e9bc3e6cd64c5f76b6b07845d69cd4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/layout/frony_layout.png"
-dest_files=["res://.godot/imported/frony_layout.png-cee2cbbf6610dec5b83768e1ec8fb624.ctex"]
+source_file="res://assets/layout/frony_layout.png"
+dest_files=["res://.godot/imported/frony_layout.png-b9e9bc3e6cd64c5f76b6b07845d69cd4.ctex"]
 
 [params]
 
