@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://bv2mtp7s6j7tj"]
+
+[ext_resource type="Texture2D" uid="uid://co08gr7ejvdcv" path="res://Assets/animalsprites/duck.png" id="1_ml8ea"]
+[ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="2_kkdrx"]
+
+[resource]
+script = ExtResource("2_kkdrx")
+name = "Dot"
+species = "Duck"
+portrait = ExtResource("1_ml8ea")
+condition = "Social Anxiety"
+price = 50
+max_payout = 50
+insured = true
+text = "So I was takin' a walk the other day. I remember I was conflicted about talking to the man at the garden cleaning his swimming pool. I don't know how to make friends, i'm a lonely soul. I just stood, silently upon a hill, but ultimately, I decided to overcome my fear and pride. After 10 sessions of therapy due to peer pressure, I finally had that breakthrough, and it really felt alright. We laughed together, we cried together, and even though I was completely out of my element, I was euphoric by the end. I am done asking myself whether I put enough work in. I'm glad I went to therapy, it just wasn't for free and I didn't come from a silver spoon you know? Sadly, contractually I am only entitled to a single 50 coins bill from you, so that is what i am asking for."
+metadata/_custom_type_script = "uid://gekfvna5qo3b"

@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="CustomerResource" load_steps=3 format=3 uid="uid://dk1o4q83t74k2"]
+
+[ext_resource type="Texture2D" uid="uid://g58t8xe0u5px" path="res://Assets/animalsprites/giraffe.png" id="1_7hreb"]
+[ext_resource type="Script" uid="uid://gekfvna5qo3b" path="res://scripts/customer_resource.gd" id="2_jkn53"]
+
+[resource]
+script = ExtResource("2_jkn53")
+name = "Anne Tenner"
+species = "giraffe"
+portrait = ExtResource("1_7hreb")
+condition = "Ossicone Cancer"
+price = 14000
+max_payout = 15000
+insured = true
+is_lying = true
+lie = "Condition"
+text = "Hello representative Papa Seal. I am being exposed to an excessive amount of radiation. I know it was made by the government, I just can't quite prove it. In either case, my Ossicones are very sensitive to this particular kind of radiation and have developed a horrible cancer, but fortunately, conveniently, it has been treated perfectly without leaving a trace. This ultra high-quality procedure cost me a hefty sum of money however at a very reputable doctor, but unfortunately I have lost the receipt. I still demand re-imbursement as per my contract though!"
+metadata/_custom_type_script = "uid://gekfvna5qo3b"
